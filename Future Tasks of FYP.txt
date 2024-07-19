@@ -1,0 +1,9 @@
+1.Explore different job roles in IT and Tech and prepare a list of possible job roles in IT and Tech covering each feild of IT
+2.Explore Different techniques for IT and Non IT jobs Filtering , keywords matching and text classification
+3.Prepare new dataset after engineering of all features
+4.Work on Jobs descriptions dataset that and explore how it can be usefull for skills analysis and and company analysis
+5.apply IT and Non IT jobs filtering to all jobs
+6.worked on powerfull analysis and visuliztions.
+7.Web app and dashboards
+
+date:08 Dec 2023
